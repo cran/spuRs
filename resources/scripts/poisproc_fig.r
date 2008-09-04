@@ -1,0 +1,12 @@
+par(las=1)
+plot(c(0, 1.9, 4.8, 6.1, 9.7, 12), c(0, 1, 2, 3, 4, 4), type="s",
+  xlab="", ylab="N(0,t)", ylim=c(-.8,4), xaxt="n", yaxp=c(0, 4, 4), bty="n")
+lines(c(0, 12), c(0, 0))
+arrows(0, -.2, 1.9, -.2, code=3, length=0.125)
+text(.95, -.6, expression(T[1]))
+arrows(1.9, -.2, 4.8, -.2, code=3, length=0.125)
+text(3.35, -.6, expression(T[2]))
+arrows(4.8, -.2, 6.1, -.2, code=3, length=0.125)
+text(5.45, -.6, expression(T[3]))
+arrows(6.1, -.2, 9.7, -.2, code=3, length=0.125)
+text(7.8, -.6, expression(T[4]))

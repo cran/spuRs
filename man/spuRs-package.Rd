@@ -3,11 +3,11 @@
 \alias{spuRs}
 \docType{package}
 \title{
-  "An Introduction to Scientific Programming and Simulation, Using R."
+  "Introduction to Scientific Programming and Simulation Using R."
 }
 \description{
    This package provides scripts, functions and datasets for the book
-  "An Introduction to Scientific Programming and Simulation, Using R."   
+  "Introduction to Scientific Programming and Simulation Using R."   
 }
 \details{
 \tabular{ll}{
@@ -36,7 +36,7 @@ Carnie.
 Maintainer: Andrew Robinson <A.Robinson@ms.unimelb.edu.au>
 }
 \references{
-  Jones, O.D., R. Maillardet, and A.P. Robinson.  2009.  An Introduction
-  to Scientific Programming and Simulation, Using R.  Chapman And Hall/CRC.
+  Jones, O.D., R.J. Maillardet, and A.P. Robinson.  2009.  Introduction
+  to Scientific Programming and Simulation Using R.  Chapman And Hall/CRC.
 }
 \keyword{ package }

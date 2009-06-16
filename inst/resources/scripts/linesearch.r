@@ -39,7 +39,7 @@ line.search <- function(f, x, y, tol = 1e-9, a.max = 2^5) {
         g.r <- g(a.r)
     }
     # if a suitable a.r was not found then use a.max for a
-    if ((a.r >= a.max) & (g.m < g.r)) return(x - a.max*y)
+    if ((a.r >= a.max) & (g.m < g.r)) return(x + a.max*y)
 
     # apply golden-section algorithm to g to find a
     a <- gsection(g, a.l, a.r, a.m)

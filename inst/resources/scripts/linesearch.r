@@ -16,7 +16,7 @@ line.search <- function(f, x, y, tol = 1e-9, a.max = 2^5) {
     g <- function(a) return(f(x + a*y))
 
     # find a triple a.l < a.m < a.r such that
-    # g(a.l) >= g(a.m) and g(a.m) <= g(a.r)
+    # g(a.l) <= g(a.m) and g(a.m) >= g(a.r)
     # a.l
     a.l <- 0
     g.l <- g(a.l)

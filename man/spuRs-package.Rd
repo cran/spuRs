@@ -22,7 +22,7 @@ LazyLoad: \tab yes\cr
 
   The main functions are: bisection, fixedpoint,
   fixedpoint\_show, newtonraphson, newtonraphson\_show, prime,
-  sieve, and vol.m3.
+  primesieve, and vol.m3.
 
   We also provide functions relevant to the seedtrap case study: mean
   and print functions, an sd function, simulate, fitDistances, and

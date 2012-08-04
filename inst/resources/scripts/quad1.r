@@ -14,4 +14,4 @@ root1 <- (-a1 + sqrt(a1^2 - 4*a2*a0))/(2*a2)
 root2 <- (-a1 - sqrt(a1^2 - 4*a2*a0))/(2*a2)
 
 # output
-show(c(root1, root2))
+print(c(root1, root2))

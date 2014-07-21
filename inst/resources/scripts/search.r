@@ -7,7 +7,7 @@ rm(list=ls())
 # Input
 # Assume that the file file_name consists of character strings
 # separated by newlines. target is the string to search for
-file_name = "../data/data2.txt"
+file_name = "../data/cars.txt"
 target = "Triumph"
 
 # Open connection

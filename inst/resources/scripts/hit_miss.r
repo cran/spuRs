@@ -14,7 +14,6 @@ hit_miss <- function(ftn, a, b, f.min, f.max, n) {
     Y <- runif(1, f.min, f.max)
     Z <- (ftn(X) >= Y)
     Z.sum <- Z.sum + Z
-    # cat("X =", X, "Y =", Y, "Z =", Z, "Z.sum =", Z.sum, "\n")
   }
   I <- (b - a)*f.min + (Z.sum/n)*(b - a)*(f.max - f.min)
   return(I)

@@ -1,3 +1,5 @@
+# program: spurs/resources/scripts/add_event.r
+
 add_event <- function(event.list, new.event) {
   # add new.event to event.list
   N <- length(event.list)
@@ -13,7 +15,9 @@ add_event <- function(event.list, new.event) {
   } else if (n == N + 1) {
     event.list <- c(event.list, list(new.event))
   } else {
-    event.list <- c(event.list[1:(n-1)], list(new.event), event.list[n:N])
+    event.list <- c(event.list[1:(n-1)],
+                    list(new.event),
+                    event.list[n:N])
   }
   return(event.list)
 }

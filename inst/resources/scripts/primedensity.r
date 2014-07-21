@@ -32,11 +32,11 @@ num.primes <- cumsum(primes)
 
 # output
 # plot the actual prime density against the theoretical limit
-par(mfrow = c(1, 2))
+par(mfrow = c(1, 2), las = 1)
 plot(m.vec, num.primes/m.vec, type = "l",
     main = "prime density", xlab = "n", ylab = "")
 lines(m.vec, 1/log(m.vec), col = "red")
 
 plot(m.vec, num.primes/m.vec*log(m.vec), type = "l",
     main = "prime density * log(n)", xlab = "n", ylab = "")
-par(mfrow = c(1, 1))
+

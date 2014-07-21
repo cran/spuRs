@@ -1,5 +1,4 @@
 fitDistances <- function(x, family) {
-  require(MASS)  # we need this package for the fitdistr() function
   getDistances <- function(x) {
     rep(x$distances, x$seed.counts)
   }

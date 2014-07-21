@@ -32,5 +32,5 @@ for(i in 1:nreps)   {
 
 # plot a scaled histogram of the sample and the density on top
 hist(Observations, breaks = seq(0, 2, by=0.1), freq = FALSE,
-     ylim=c(0, 1.05), main="")
+     ylim = c(0, 1.05), main = "")
 lines(c(0, 1, 2), c(0, 1, 0))

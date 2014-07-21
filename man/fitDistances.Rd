@@ -30,6 +30,7 @@ fitDistances(x, family)
 \seealso{\code{\link{fitdistr}}, \code{\link{trapTransect}}}
 
 \examples{
+library(MASS)
 s1 <- trapTransect(distances = 1:4, seed.counts = c(4, 3, 2, 0))
 allTraps <- transectHolder(s1, family="Weibull")
 fitDistances(allTraps, "exponential")

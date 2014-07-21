@@ -1,0 +1,3 @@
+Data taken from http://www.bom.gov.au/climate/averages/tables/cw_086071_All.shtml
+Site name: MELBOURNE REGIONAL OFFICE Site number: 086071 Commenced: 1908 Map 
+Latitude:  37.81° S Longitude:  144.97° E Elevation:  31 m 

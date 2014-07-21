@@ -19,7 +19,7 @@ newtonraphson <- function(ftn, x0, tol = 1e-9, max.iter = 100) {
   while ((abs(fx[1]) > tol) && (iter < max.iter)) {
     x <- x - fx[1]/fx[2]
     fx <- ftn(x)
-    iter <-  iter + 1
+    iter <- iter + 1
     cat("At iteration", iter, "value of x is:", x, "\n")
   }
 

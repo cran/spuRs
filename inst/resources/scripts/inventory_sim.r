@@ -43,7 +43,8 @@ while (!time.to.stop) {
       stock[n+1] <- stock[n]
     }
     # generate next purchase
-    new.event <- list(type = "purchase", time = t[n+1] + rexp(1, rate = D))
+    new.event <- list(type = "purchase",
+                      time = t[n+1] + rexp(1, rate = D))
     event.list <- add_event(event.list, new.event)
     # check for end of cycle
     if (stock[n+1] == r) {

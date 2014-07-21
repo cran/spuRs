@@ -1,4 +1,4 @@
-ID      Num Teeth
+ID      Num_Teeth
 1       28
 2       27
 3       32

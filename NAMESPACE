@@ -1,3 +1,17 @@
 import(MASS)
 import(lattice)
+
+importFrom("graphics", "axis", "lines", "plot")
+importFrom("stats", "rexp", "runif", "sd", "simulate", "weighted.mean")
+importFrom("utils", "str")
+
+S3method(mean, transectHolder)
+S3method(print, transectHolder)
+
+
+S3method(simulate, transectHolder)
+
+S3method(mean, trapTransect)
+S3method(print, trapTransect)
+
 exportPattern("^[^\\.]")

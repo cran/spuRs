@@ -13,12 +13,13 @@
 }
 \source{
   Data obtained from the U.S. National Climatic Data Centre, Global
-  Historical Climatology Network data base (GHCN-Monthly Version 2)
-  \url{http://www.ncdc.noaa.gov/oa/climate/ghcn-monthly/}.
+  Historical Climatology Network data base (GHCN-Monthly Version 2, NB:
+  not Version 3)
+  \url{https://www.ncdc.noaa.gov/ghcnm/}.
 }
 \references{
-  Jones, O.D., R. Maillardet, and A.P. Robinson.  2009.  An Introduction
-  to Scientific Programming and Simulation, Using R.  Chapman And Hall/CRC.
+  Jones, O.D., R. Maillardet, and A.P. Robinson.  2014.  An Introduction
+  to Scientific Programming and Simulation, Using R.  2nd Ed. Chapman And Hall/CRC.
 }
 \examples{
 data(kew)

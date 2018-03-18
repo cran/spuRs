@@ -1,5 +1,5 @@
-02afc60f209d3d196142d4c555df28c4 *DESCRIPTION
-d21381334801623436b1f18345ada7c0 *NAMESPACE
+e896e2b8a5171c4ef3cc951aca3cebac *DESCRIPTION
+f822c3438e7cdb5801989f8310fccb73 *NAMESPACE
 e73e66dd237e756c0ae2489934659edc *R/CMCSimulation.R
 4838b921909f0d0e8b5cfe33ba48b9c1 *R/MCEstimation.R
 41cb90ac2e211d609e1637d9ec925566 *R/MCSimulation.R
@@ -22,11 +22,11 @@ c145192595bea727325cecb2f7ada0af *R/simulate.transectHolder.R
 d67842ab9a94b8e51efcfd9cb039c6f1 *R/transectHolder.R
 17086f27718e3227b22c921c116f6b48 *R/trapTransect.R
 c6df4551987aa7e6a03fc032c4ab08e6 *R/vol.m3.R
-993b2e501432c0e528f56fa111e42fa7 *data/kew.rda
-b55b9d1c96cb6dd182c053355f0ec3be *data/treeg.rda
-e50c9a85e448a628a925e8ce7cefd27c *data/trees.rda
-d1f6e446c3a13f851a2156845b64f038 *data/ufc.plots.rda
-48f6881d9d545379826adf541311618c *data/ufc.rda
+88f5a1859f6860061aa16301e4e8302c *data/kew.rda
+1ebd323ace9fcbfbd12073e68437c4f7 *data/treeg.rda
+e050655403d1686015b8c9b074280baa *data/trees.rda
+b4c51a22b93bce002daadd4e824f4fa5 *data/ufc.plots.rda
+c2f51489e188128ad985219efc9e8d11 *data/ufc.rda
 f19ee3c85ce9642c552897d36e53d1b3 *inst/resources/data/Melbourne_rainfall_mm.csv
 1c7cb2c94349ef80926edc68a05939ed *inst/resources/data/Melbourne_rainfall_mm.txt
 b20ad7fd7682738a56ba42af2f5dc9e6 *inst/resources/data/age.txt
@@ -99,7 +99,7 @@ cd92f7b538a054458882c923b7807d59 *inst/resources/scripts/mc_machineshop.r
 bbdc06546d95ea00c24b8d4b4effaa93 *inst/resources/scripts/moverings.r
 f2723a3bd53a48b2ea3427de55149902 *inst/resources/scripts/n_choose_r.r
 e01342b17e6ec77d885018e87928f589 *inst/resources/scripts/newton.r
-186226f6338f73845534db46484bf7b2 *inst/resources/scripts/newton_gamma.r
+ad6936645b112f48f4c0d0d272c1769f *inst/resources/scripts/newton_gamma.r
 4d986557a5b9822c989bdfe023ef74aa *inst/resources/scripts/newtonraphson.r
 f0393caf671778344d8c7a6f3b32c267 *inst/resources/scripts/newtonraphson_show.r
 106adf44393551481dd98ac07ea8e6e3 *inst/resources/scripts/nfact1.r
@@ -142,7 +142,7 @@ bb6752586bfe721ff5f19c4fb2a9d82c *man/RK4adapt.Rd
 8862c1052be42101de2ab1846082da6c *man/fitDistances.Rd
 f09f4e32c722c79fed969a7558b42055 *man/fixedpoint.Rd
 9d74eb741eac415cfc553ec436b34384 *man/fixedpoint_show.Rd
-d22c41cf15131e3444b2f3fbe76ffab8 *man/kew.Rd
+254c99e094db232f2e62a31c57094c61 *man/kew.Rd
 030b7822b9c2816a6ebe1796a89fbd40 *man/mean.transectHolder.Rd
 6f5ebf7328637d291a4efdfc2de7c1c0 *man/mean.trapTransect.Rd
 bafd24adafd6d1ca4f4b6f252af8e097 *man/newtonraphson.Rd

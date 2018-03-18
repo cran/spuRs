@@ -25,7 +25,7 @@ gamma.2.3 <- function(x) {
     if (x < 0) return(c(0, 0, 0))
     if (x == 0) return(c(0, 0, NaN))
     y <- exp(-2*x)
-    return(c(4*x^2*y, 8*x*(1-x)*y, 8*(1-2*x^2)*y))
+    return(c(4*x^2*y, 8*x*(1-x)*y, 8*(2*x^2-4*x+1)*y))
 }
 
 

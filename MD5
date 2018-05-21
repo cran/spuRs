@@ -1,4 +1,4 @@
-e896e2b8a5171c4ef3cc951aca3cebac *DESCRIPTION
+b7da43a507fb8aa5573f340a024e5cf7 *DESCRIPTION
 f822c3438e7cdb5801989f8310fccb73 *NAMESPACE
 e73e66dd237e756c0ae2489934659edc *R/CMCSimulation.R
 4838b921909f0d0e8b5cfe33ba48b9c1 *R/MCEstimation.R
@@ -153,7 +153,6 @@ d56175359572bbbb7c4e347967f7177f *man/print.transectHolder.Rd
 e6ab57d2ef795be9c4db522e1d1c9004 *man/print.trapTransect.Rd
 df73c194a73f54b63a503db73fdc812f *man/sd.transectHolder.Rd
 fb8843aa4118040dcf5083d90e3eddba *man/simulate.transectHolder.Rd
-73fd060b655808c9bd38b35d7f902227 *man/spuRs-package.Rd
 58b123c846ccdc61a7286faab67ee952 *man/transectHolder.Rd
 e6a4296382e3af0688fdc1c9e94509ed *man/trapTransect.Rd
 f09e7e9e705b29a629fff3fb67a777a3 *man/treeg.Rd

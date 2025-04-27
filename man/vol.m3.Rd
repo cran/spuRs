@@ -17,7 +17,7 @@ vol.m3(dbh.cm, height.m, multiplier = 0.5)
 }
 \details{
   Commonly-used shapes are:
-  \itemize{
+  \describe{
     \item{1/3 }{conoid}
     \item{1/2 }{second-degree parabaloid}
     \item{1 }{cylinder}

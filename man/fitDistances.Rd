@@ -27,7 +27,7 @@ fitDistances(x, family)
   to Scientific Programming and Simulation, Using R.  Chapman And Hall/CRC.
 }
 
-\seealso{\code{\link{fitdistr}}, \code{\link{trapTransect}}}
+\seealso{\code{\link[MASS]{fitdistr}}, \code{\link{trapTransect}}}
 
 \examples{
 library(MASS)

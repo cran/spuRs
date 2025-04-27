@@ -1,4 +1,4 @@
-b7da43a507fb8aa5573f340a024e5cf7 *DESCRIPTION
+2cc9f133f7c3ba6affdc0c3501a64983 *DESCRIPTION
 f822c3438e7cdb5801989f8310fccb73 *NAMESPACE
 e73e66dd237e756c0ae2489934659edc *R/CMCSimulation.R
 4838b921909f0d0e8b5cfe33ba48b9c1 *R/MCEstimation.R
@@ -22,11 +22,11 @@ c145192595bea727325cecb2f7ada0af *R/simulate.transectHolder.R
 d67842ab9a94b8e51efcfd9cb039c6f1 *R/transectHolder.R
 17086f27718e3227b22c921c116f6b48 *R/trapTransect.R
 c6df4551987aa7e6a03fc032c4ab08e6 *R/vol.m3.R
-88f5a1859f6860061aa16301e4e8302c *data/kew.rda
-1ebd323ace9fcbfbd12073e68437c4f7 *data/treeg.rda
-e050655403d1686015b8c9b074280baa *data/trees.rda
-b4c51a22b93bce002daadd4e824f4fa5 *data/ufc.plots.rda
-c2f51489e188128ad985219efc9e8d11 *data/ufc.rda
+0ccaac574c244be29d7cd2c67dcda354 *data/kew.rda
+1b8a42f2b1e1892e30994d021d82af16 *data/treeg.rda
+8d3c88409a62ac150f15cd505919a583 *data/trees.rda
+e8a5d51bd42ab578ee2918493e366c62 *data/ufc.plots.rda
+9bfd2f5fc13f46c15520b4b1ac17978d *data/ufc.rda
 f19ee3c85ce9642c552897d36e53d1b3 *inst/resources/data/Melbourne_rainfall_mm.csv
 1c7cb2c94349ef80926edc68a05939ed *inst/resources/data/Melbourne_rainfall_mm.txt
 b20ad7fd7682738a56ba42af2f5dc9e6 *inst/resources/data/age.txt
@@ -41,7 +41,7 @@ b25ea39505ed4709b4949148aec13bca *inst/resources/data/treegrowth.csv
 0033da4e2c5382a958ca5148af7adf57 *inst/resources/data/trees.csv
 061d546832e34a0dca6024b35aac779f *inst/resources/data/ufc-plots.csv
 d328e39a1cbf73b977926ddb2f555760 *inst/resources/data/ufc.csv
-bc075ddc045b7e7483aa4478f07b412d *inst/resources/errata.pdf
+5ee50e9ff5606d571ccf8b025c5d05b9 *inst/resources/errata.pdf
 b48f3c741529f146606923aa89fec776 *inst/resources/scripts/CMCSimulation.r
 48ab2d9f29f83bee7a046dd585938174 *inst/resources/scripts/LotkaVolterra.r
 8f576216f392494340fb68998db6887b *inst/resources/scripts/MCEstimation.r
@@ -139,10 +139,10 @@ be9e9fd742347b17a0a59dc4a7684373 *man/MCEstimation.Rd
 bb6752586bfe721ff5f19c4fb2a9d82c *man/RK4adapt.Rd
 7f0553636569c451e60f7b105af1ef1e *man/bisection.Rd
 5b1968c88c5b30ad3185ba3b60029cb0 *man/booking_clerkMC.Rd
-8862c1052be42101de2ab1846082da6c *man/fitDistances.Rd
+5aaad525ed1a740044ecce04caf5fc24 *man/fitDistances.Rd
 f09f4e32c722c79fed969a7558b42055 *man/fixedpoint.Rd
 9d74eb741eac415cfc553ec436b34384 *man/fixedpoint_show.Rd
-254c99e094db232f2e62a31c57094c61 *man/kew.Rd
+c6fbbdb11d19b4dca659c3543bedb16a *man/kew.Rd
 030b7822b9c2816a6ebe1796a89fbd40 *man/mean.transectHolder.Rd
 6f5ebf7328637d291a4efdfc2de7c1c0 *man/mean.trapTransect.Rd
 bafd24adafd6d1ca4f4b6f252af8e097 *man/newtonraphson.Rd
@@ -159,4 +159,4 @@ f09e7e9e705b29a629fff3fb67a777a3 *man/treeg.Rd
 c2d6fd9bb09a401d664a143e4fe9b80d *man/trees.Rd
 c5777ca31f15beef99c3e92a93c7adea *man/ufc.Rd
 9b1d86a2bfa9aaa4befacf8302261c18 *man/ufc.plots.Rd
-5ca4d088e6a036f129ab4e339b6bc933 *man/vol.m3.Rd
+3aca1f8830038687a796b046e43dad3d *man/vol.m3.Rd

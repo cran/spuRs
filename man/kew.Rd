@@ -15,7 +15,7 @@
   Data obtained from the U.S. National Climatic Data Centre, Global
   Historical Climatology Network data base (GHCN-Monthly Version 2, NB:
   not Version 3)
-  \url{https://www.ncdc.noaa.gov/ghcnm/}.
+  \url{https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-monthly}.
 }
 \references{
   Jones, O.D., R. Maillardet, and A.P. Robinson.  2014.  An Introduction
